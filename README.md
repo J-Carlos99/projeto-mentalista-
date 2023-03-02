@@ -1,2 +1,2 @@
 # projeto-mentalista-
-Mentalista criado no evento da RocketSeat 
+Mentalista criado no evento da Alura
